@@ -1,0 +1,17 @@
+.momo-payment-gateway-wrapper .momo-payment-gateway-notification {
+  max-width: 600px;
+  margin: 0 auto;
+  border: 1px solid #dcd7ca;
+  border-radius: 6px;
+  padding: 20px 15px;
+  text-align: center;
+}
+.momo-payment-gateway-wrapper .momo-payment-gateway-notification img {
+  width: 100px;
+  height: auto;
+  margin: 0 auto;
+}
+.momo-payment-gateway-wrapper .momo-payment-gateway-notification .notification-title {
+  margin: 10px 0;
+  font-size: 30px;
+}
